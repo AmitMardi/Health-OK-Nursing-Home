@@ -1,0 +1,7 @@
+<svg width="200" height="80" xmlns="http://www.w3.org/2000/svg">
+  <rect width="200" height="80" fill="transparent" />
+  <circle cx="35" cy="40" r="15" fill="#1d4ed8" />
+  <circle cx="35" cy="40" r="5" fill="#ffffff" />
+  <path d="M 35 45 L 35 55 L 45 55 Z" fill="#ffffff" />
+  <text x="60" y="45" font-family="Arial, sans-serif" font-weight="bold" font-size="20" fill="#1d4ed8">SBI General</text>
+</svg>

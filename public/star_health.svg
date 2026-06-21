@@ -1,0 +1,5 @@
+<svg width="200" height="80" xmlns="http://www.w3.org/2000/svg">
+  <rect width="200" height="80" fill="transparent" />
+  <text x="20" y="45" font-family="Arial, sans-serif" font-weight="bold" font-size="20" fill="#1d4ed8">Star Health</text>
+  <path d="M 150 40 l 10 0 l 5 -15 l 5 15 l 10 0 l -8 8 l 3 15 l -10 -8 l -10 8 l 3 -15 z" fill="#eab308" />
+</svg>
